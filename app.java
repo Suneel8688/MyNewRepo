@@ -4,3 +4,4 @@ public class Main {
    }
 }
 Added java code
+Now data is added
